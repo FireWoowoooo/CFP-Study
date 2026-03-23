@@ -8,7 +8,7 @@
 - **考试日期**: 3.9
 - **当前进度**: 记录在 algebra-study-tracker.md 中
 - **学习会话**: 多个会话记录在 /sessions/ 目录中
-- **学习材料**: 裴定一《近世代数》教材
+- **学习材料**: 裴定一《近世代数》教材（注：由于笔者的教材pdf格式受限，因故未能直接在文件夹中挂载教材，而是使用了本校往年的试卷和指定教材的提示词，涉及隐私这里就不加展示）
 
 ## 工作原理
 
@@ -86,23 +86,23 @@ Claude 会读取你的会话历史，并根据你过去的表现创建个性化�
 
 我使用**裴定一《近世代数》教材**进行准备。本仓库遵循这本权威教材的结构和严谨性，同时将其适应于交互式 AI 引导学习。
 
-## 免费学习资源
+## 学习资源(AI推荐)
 
-除了教材外，以下是一些优秀的**免费资源**，可以补充你的近世代数考试准备：
+除了教材外，以下是一些优秀的**学习资源**，可以补充你的近世代数考试准备：
 
 **在线学习平台：**
 - [MIT OpenCourseWare - 抽象代数](https://ocw.mit.edu/courses/mathematics/18-703-modern-algebra-spring-2013/) - 来自 MIT 的免费课程材料
 - [哈佛抽象代数讲座](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5) - YouTube 上的视频讲座
 
 **交互式资源：**
-- [Abstract Algebra Online](https://abstract.ups.edu/) - 带练习的交互式教科书
-- [Group Theory Visualizer](https://nathancarter.github.io/group-explorer/) - 群结构的可视化探索
+- [Abstract Algebra Online](https://abstract.ups.edu/) - 带练习的交互式教科书(不明网站）
+- [Group Theory Visualizer](https://nathancarter.github.io/group-explorer/) - 群结构的可视化探索(似乎很酷)
 
 **问题解决社区：**
-- [Mathematics StackExchange](https://math.stackexchange.com/) - 近世代数问题的问答社区
-- [Art of Problem Solving](https://artofproblemsolving.com/) - 高等数学的社区和资源
+- [Mathematics StackExchange](https://math.stackexchange.com/) - 近世代数问题的问答社区（我点开了，真的很酷的一个问答社区）
+- [Art of Problem Solving](https://artofproblemsolving.com/) - 高等数学的社区和资源（不太明朗）
 
-这些免费资源非常适合加深理解、探索替代解释和练习问题解决。
+这些学习资源非常适合加深理解、探索替代解释和练习问题解决。
 
 ## 主要特性
 
