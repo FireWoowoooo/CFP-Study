@@ -5,7 +5,7 @@
 这是我的个人学习仓库，用于准备近世代数（抽象代数）考试，采用基于 Claude Code 的 AI 引导式学习方法。这种方法将 [@chenran818备考 CFP 考试的成功方法](https://github.com/chenran818/CFP-Study) 应用到抽象代数领域，我成功在突击复习3天后及格通过了补考。特别鸣谢 [@chenran818](https://github.com/chenran818) 的分享！
 
 **当前学习统计**：
-- **考试日期**: 待安排
+- **考试日期**: 3.9
 - **当前进度**: 记录在 algebra-study-tracker.md 中
 - **学习会话**: 多个会话记录在 /sessions/ 目录中
 - **学习材料**: 裴定一《近世代数》教材
